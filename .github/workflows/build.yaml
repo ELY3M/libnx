@@ -20,3 +20,7 @@ jobs:
 
       - name: build
         run: make -C nx -j2
+
+      - name: test
+        run: ls -la
+        
