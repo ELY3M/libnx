@@ -1,5 +1,10 @@
 # Changelog
 
+## 20.0.0 Support 
+Thank you to ScriesM    
+https://github.com/Atmosphere-NX/libnx/tree/20_support  
+
+
 ## Version 4.7.0
 
 #### system
